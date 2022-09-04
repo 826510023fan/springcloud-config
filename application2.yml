@@ -1,0 +1,18 @@
+
+---
+
+spring:
+  profiles:
+    active: dev
+    application:
+       name:  springcloud-config-dev
+---
+
+spring:
+  profiles:
+    active: test
+    application:
+       name:  springcloud-config-test
+       
+---
+Woshi apple dian lao ti jiao de -------------------------99999
